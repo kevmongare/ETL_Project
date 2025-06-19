@@ -28,3 +28,21 @@ Before today, ETL was just another buzzword. Now it feels like something I can a
 ## 🙏 Thanks
 
 Big shoutout to **Lux** — you really helped me connect the dots today.
+
+
+## 🚀 How to Use This Project
+
+ **Clone the repo**  
+ pip install necesarry packages  install -requests sqlalchemy pandas psycopg2-binary -dotenv
+**Create a .env file using the example:**
+with 
+    NEWSAPI_KEY=your_api_key_here
+    DATABASE_URL=postgresql://username:password@host:port/database
+**run the code**
+If you enjoyed this project or learned something new, please:
+
+- ⭐ Star this repo
+- - 🔔 Follow me on [GitHub](https://github.com/kevmongare)
+- 💬 Share your feedback or suggest improvements
+
+Your support helps me grow and build more projects like this!
