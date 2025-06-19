@@ -32,23 +32,27 @@ Big shoutout to **Lux** — you really helped me connect the dots today.
 **images**
 <p align="center">
   <img src="/images/DBeaver.png" alt="ETL Summary" width="600">
-  my DBeaver
+  
   <br>
+  my DBeaver
    <br>
     <br>
   <img src="/images/source of data and author.png" alt="ETL Summary" width="600">
-  How the data looks like plus the author
+ 
    <br>
+    How the data looks like plus the author
     <br>
      <br>
   <img src="/images/Source of data and title.png" alt="ETL Summary" width="600">
-  source of data and title
+  
    <br>
+   source of data and title
     <br>
      <br>
   <img src="/images/title source of data and url.png" alt="ETL Summary" width="600">
-  source of data and the url
+  
    <br>
+   source of data and the url
     <br>
      <br>
   <img src="/images/Titleand description.png" alt="ETL Summary" width="600">
