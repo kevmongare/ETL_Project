@@ -29,6 +29,16 @@ Before today, ETL was just another buzzword. Now it feels like something I can a
 
 Big shoutout to **Lux** — you really helped me connect the dots today.
 
+**images**
+<p align="center">
+  <img src="/images/DBeaver.png" alt="ETL Summary" width="600">
+  <img src="/images/source of data and author.png" alt="ETL Summary" width="600">
+  <img src="/images/Source of data and title.png" alt="ETL Summary" width="600">
+  <img src="/images/title source of data and url.png" alt="ETL Summary" width="600">
+  <img src="/images/Titleand description.png" alt="ETL Summary" width="600">
+  
+</p>
+
 
 ## 🚀 How to Use This Project
 
@@ -46,3 +56,4 @@ If you enjoyed this project or learned something new, please:
 - 💬 Share your feedback or suggest improvements
 
 Your support helps me grow and build more projects like this!
+
